@@ -32,11 +32,8 @@ We've created a few Bubbles (markdown documents) to get you started.
 
 In the `docs` directory you can find everything you need to learn the basics of Foam.
 
-
-
-
 ## Submitting Issues 
 
 As you may have noticed, issues are disabled. With the goal to keep the project fairly easy to maintain, please file your issues in the main Foam repository:
 
-> <https://github.com/foambubble/foam>
+> <https://github.com/foambubble/foam>  
