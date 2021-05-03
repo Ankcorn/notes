@@ -14,11 +14,11 @@ Let's go through this to set up your repo:
 
 - [x] #tags can be used to further organize your content. Look at the `Tag Explorer` view on the left panel to find and navigate the tags in your knowledge base. See [[tags-and-tag-explorer]].
 
-- [ ] Foam supports [[spell-checking]].
+- [x] Foam supports [[spell-checking]].
 
-- [ ] You can also paste images in your Foam, just press `cmd+alt+v` to create the image file and link to it from your note. See [[paste-images-from-clipboard]].
+- [x] You can also paste images in your Foam, just press `cmd+alt+v` to create the image file and link to it from your note. See [[paste-images-from-clipboard]].
 
-- [ ] You can use Foam for your daily notes, or journaling. Execute now the `Foam: Open Daily Note` command to create a new file in your `journal` folder. See [[daily-notes]].
+- [x] You can use Foam for your daily notes, or journaling. Execute now the `Foam: Open Daily Note` command to create a new file in your `journal` folder. See [[daily-notes]].
 
 - [ ] Want to see how to manage your tasks? Go to the [[todo]] note
 
