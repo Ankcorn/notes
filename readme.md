@@ -1,4 +1,4 @@
-<img src="attachments/profilephoto.heic" width=100 align="left">
+<img src="attachments/profilephoto.png" width=100 align="left">
 
 # Foam
 
